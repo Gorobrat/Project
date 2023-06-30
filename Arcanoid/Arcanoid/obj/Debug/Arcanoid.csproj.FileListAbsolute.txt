@@ -1,0 +1,10 @@
+C:\Users\Gor\source\repos\Arcanoid\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\Gor\source\repos\Arcanoid\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\Gor\source\repos\Arcanoid\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\Gor\source\repos\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\Gor\source\repos\Arcanoid\Arcanoid\obj\Debug\Arcanoid.Form1.resources
+C:\Users\Gor\source\repos\Arcanoid\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\Gor\source\repos\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\Gor\source\repos\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\Gor\source\repos\Arcanoid\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\Gor\source\repos\Arcanoid\Arcanoid\obj\Debug\Arcanoid.pdb
