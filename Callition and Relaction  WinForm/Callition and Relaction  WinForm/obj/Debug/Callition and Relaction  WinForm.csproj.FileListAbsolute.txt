@@ -1,0 +1,10 @@
+C:\Users\Gor\source\repos\Callition and Relaction  WinForm\Callition and Relaction  WinForm\bin\Debug\Callition and Relaction  WinForm.exe.config
+C:\Users\Gor\source\repos\Callition and Relaction  WinForm\Callition and Relaction  WinForm\bin\Debug\Callition and Relaction  WinForm.exe
+C:\Users\Gor\source\repos\Callition and Relaction  WinForm\Callition and Relaction  WinForm\bin\Debug\Callition and Relaction  WinForm.pdb
+C:\Users\Gor\source\repos\Callition and Relaction  WinForm\Callition and Relaction  WinForm\obj\Debug\Callition and Relaction  WinForm.csproj.AssemblyReference.cache
+C:\Users\Gor\source\repos\Callition and Relaction  WinForm\Callition and Relaction  WinForm\obj\Debug\Callition_and_Relaction__WinForm.Form1.resources
+C:\Users\Gor\source\repos\Callition and Relaction  WinForm\Callition and Relaction  WinForm\obj\Debug\Callition_and_Relaction__WinForm.Properties.Resources.resources
+C:\Users\Gor\source\repos\Callition and Relaction  WinForm\Callition and Relaction  WinForm\obj\Debug\Callition and Relaction  WinForm.csproj.GenerateResource.cache
+C:\Users\Gor\source\repos\Callition and Relaction  WinForm\Callition and Relaction  WinForm\obj\Debug\Callition and Relaction  WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Gor\source\repos\Callition and Relaction  WinForm\Callition and Relaction  WinForm\obj\Debug\Callition and Relaction  WinForm.exe
+C:\Users\Gor\source\repos\Callition and Relaction  WinForm\Callition and Relaction  WinForm\obj\Debug\Callition and Relaction  WinForm.pdb
