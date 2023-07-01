@@ -1,0 +1,10 @@
+C:\Users\Gor\source\repos\Square eater\Click_Square\bin\Debug\Click_Square.exe.config
+C:\Users\Gor\source\repos\Square eater\Click_Square\bin\Debug\Click_Square.exe
+C:\Users\Gor\source\repos\Square eater\Click_Square\bin\Debug\Click_Square.pdb
+C:\Users\Gor\source\repos\Square eater\Click_Square\obj\Debug\Click_Square.csproj.AssemblyReference.cache
+C:\Users\Gor\source\repos\Square eater\Click_Square\obj\Debug\Click_Square.Form1.resources
+C:\Users\Gor\source\repos\Square eater\Click_Square\obj\Debug\Click_Square.Properties.Resources.resources
+C:\Users\Gor\source\repos\Square eater\Click_Square\obj\Debug\Click_Square.csproj.GenerateResource.cache
+C:\Users\Gor\source\repos\Square eater\Click_Square\obj\Debug\Click_Square.csproj.CoreCompileInputs.cache
+C:\Users\Gor\source\repos\Square eater\Click_Square\obj\Debug\Click_Square.exe
+C:\Users\Gor\source\repos\Square eater\Click_Square\obj\Debug\Click_Square.pdb
